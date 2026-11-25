@@ -1,0 +1,41 @@
+ou,ou_name,district,expected,received,on_time,completeness,timeliness,months_silent,problems,priority
+Tod1Kbk2V16,West Health Centre 02,West District,12.0,6.0,6.0,0.5,0.5,6,Silent: no report for the last 6 months; Completeness 50% (target 80%); Timeliness 50% (target 80%),1 - Urgent
+IXPdGsIQmcE,South Health Centre 08,South District,12.0,8.0,6.0,0.6666666666666666,0.5,3,Silent: no report for the last 3 months; Completeness 67% (target 80%); Timeliness 50% (target 80%),1 - Urgent
+mhPTziq9RJt,West Health Centre 04,West District,12.0,9.0,8.0,0.75,0.6666666666666666,3,Silent: no report for the last 3 months; Completeness 75% (target 80%); Timeliness 67% (target 80%),1 - Urgent
+TXQCHlIFPCu,West Health Centre 08,West District,12.0,6.0,4.0,0.5,0.3333333333333333,0,Completeness 50% (target 80%); Timeliness 33% (target 80%),2 - Follow up
+nlSnM1Ehesz,South Health Centre 05,South District,12.0,6.0,4.0,0.5,0.3333333333333333,1,Completeness 50% (target 80%); Timeliness 33% (target 80%),2 - Follow up
+z1vzqEJCtIM,East Health Centre 05,East District,12.0,6.0,5.0,0.5,0.4166666666666667,1,Completeness 50% (target 80%); Timeliness 42% (target 80%),2 - Follow up
+YLWvW8dHwdf,South Health Centre 04,South District,12.0,7.0,6.0,0.5833333333333334,0.5,0,Completeness 58% (target 80%); Timeliness 50% (target 80%),2 - Follow up
+svoV8QlICPZ,West Health Centre 07,West District,12.0,7.0,3.0,0.5833333333333334,0.25,0,Completeness 58% (target 80%); Timeliness 25% (target 80%),2 - Follow up
+U82diKMn36m,Central Health Centre 07,Central District,12.0,9.0,6.0,0.75,0.5,0,Completeness 75% (target 80%); Timeliness 50% (target 80%),2 - Follow up
+QPd259diNHf,West Health Centre 01,West District,12.0,10.0,4.0,0.8333333333333334,0.3333333333333333,0,Timeliness 33% (target 80%),2 - Follow up
+VA7Vu2xgK0O,North Health Centre 08,North District,12.0,10.0,6.0,0.8333333333333334,0.5,0,Timeliness 50% (target 80%),2 - Follow up
+f2Cn9HukaMM,Central Health Centre 06,Central District,12.0,10.0,2.0,0.8333333333333334,0.16666666666666666,0,Timeliness 17% (target 80%),2 - Follow up
+egkvFJz2Pku,East Health Centre 07,East District,12.0,11.0,4.0,0.9166666666666666,0.3333333333333333,0,Timeliness 33% (target 80%),2 - Follow up
+bMGjmcTQy7x,East Health Centre 01,East District,12.0,12.0,9.0,1.0,0.75,0,Timeliness 75% (target 80%),2 - Follow up
+esHe51ITUa6,East Health Centre 03,East District,12.0,12.0,2.0,1.0,0.16666666666666666,0,Timeliness 17% (target 80%),2 - Follow up
+km05ApZjirw,East Health Centre 08,East District,12.0,12.0,6.0,1.0,0.5,0,Timeliness 50% (target 80%),2 - Follow up
+HzISFTqBjNy,Central Health Centre 08,Central District,12.0,11.0,10.0,0.9166666666666666,0.8333333333333334,0,,3 - OK
+Xsitc3PKpDl,North Health Centre 04,North District,12.0,11.0,10.0,0.9166666666666666,0.8333333333333334,1,,3 - OK
+hShc3hy2qrx,Central Health Centre 03,Central District,12.0,11.0,11.0,0.9166666666666666,0.9166666666666666,0,,3 - OK
+jcUlUuJ65Dm,South Health Centre 02,South District,12.0,11.0,10.0,0.9166666666666666,0.8333333333333334,0,,3 - OK
+n0Kk278M8LF,South Health Centre 03,South District,12.0,11.0,11.0,0.9166666666666666,0.9166666666666666,0,,3 - OK
+p4fybvTvEDd,East Health Centre 02,East District,12.0,11.0,10.0,0.9166666666666666,0.8333333333333334,0,,3 - OK
+B55mLNpsETs,North Health Centre 06,North District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+BD1hNyNfyiw,Central Health Centre 01,Central District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+LOnyZ0OaQnY,North Health Centre 07,North District,12.0,12.0,10.0,1.0,0.8333333333333334,0,,3 - OK
+NOskAEAOgSH,Central Health Centre 04,Central District,12.0,12.0,11.0,1.0,0.9166666666666666,0,,3 - OK
+ODbpRGxpfLO,North Health Centre 05,North District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+SxBVzEbWrGH,West Health Centre 05,West District,12.0,12.0,10.0,1.0,0.8333333333333334,0,,3 - OK
+UGAAPKkTU7W,North Health Centre 02,North District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+XRYdsQNwjKf,South Health Centre 07,South District,12.0,12.0,11.0,1.0,0.9166666666666666,0,,3 - OK
+aPYwAJBFIKr,Central Health Centre 05,Central District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+c0ZUiY7YQpI,East Health Centre 04,East District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+hrGIyyhM5mX,South Health Centre 01,South District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+iKRgMB5ytR1,East Health Centre 06,East District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+ioBg2vJj7Da,West Health Centre 06,West District,12.0,12.0,10.0,1.0,0.8333333333333334,0,,3 - OK
+jSQes132h7z,Central Health Centre 02,Central District,12.0,12.0,11.0,1.0,0.9166666666666666,0,,3 - OK
+otOOR1s6ae8,North Health Centre 03,North District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+pHxaodhz40N,West Health Centre 03,West District,12.0,12.0,11.0,1.0,0.9166666666666666,0,,3 - OK
+wMDqjQTchCy,North Health Centre 01,North District,12.0,12.0,12.0,1.0,1.0,0,,3 - OK
+zs0J75RbnUH,South Health Centre 06,South District,12.0,12.0,11.0,1.0,0.9166666666666666,0,,3 - OK

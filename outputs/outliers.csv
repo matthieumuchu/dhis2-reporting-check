@@ -1,0 +1,10 @@
+district,ou_name,pe,data_element,value,facility_median,modified_z,assessment,ou
+West District,West Health Centre 02,202511,ANC 1st visit,1057.0,92.5,76.5,Likely data-entry error (e.g. extra digit),Tod1Kbk2V16
+Central District,Central Health Centre 01,202604,ANC 1st visit,847.0,79.0,57.6,Likely data-entry error (e.g. extra digit),BD1hNyNfyiw
+West District,West Health Centre 05,202602,ANC 1st visit,157.0,16.0,38.0,Likely data-entry error (e.g. extra digit),SxBVzEbWrGH
+East District,East Health Centre 05,202603,ANC 1st visit,487.0,47.0,34.9,Likely data-entry error (e.g. extra digit),z1vzqEJCtIM
+West District,West Health Centre 06,202602,ANC 1st visit,437.0,50.5,26.1,Likely data-entry error (e.g. extra digit),ioBg2vJj7Da
+Central District,Central Health Centre 07,202603,ANC 1st visit,377.0,47.0,24.7,Likely data-entry error (e.g. extra digit),U82diKMn36m
+West District,West Health Centre 08,202610,ANC 1st visit,69.0,60.0,4.0,Unusual: confirm with the facility register,TXQCHlIFPCu
+East District,East Health Centre 08,202609,ANC 1st visit,64.0,91.5,-3.7,Unusual: confirm with the facility register,km05ApZjirw
+North District,North Health Centre 05,202610,ANC 1st visit,47.0,67.0,-3.9,Unusual: confirm with the facility register,ODbpRGxpfLO
